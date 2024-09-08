@@ -1,0 +1,5 @@
+E-mail <CONTACT email>,Prénom <CONTACT firstname>,Nom <CONTACT lastname>
+
+"SUPPRIMER CETTE LIGNE AVANT L'IMPORTATION","Pour créer des fiches d'informations d'un contact dans HubSpot, incluez des valeurs pour au moins UNE des colonnes de <CONTACT> listées ci-dessus."
+"SUPPRIMER CETTE LIGNE AVANT L'IMPORTATION","NE SUPPRIMEZ PAS le <text>, cela permet au système d'import de mapper ces colonnes pour vous."
+"SUPPRIMER CETTE LIGNE AVANT L'IMPORTATION","N'hésitez pas à ajouter d'autres colonnes si nécessaire."
