@@ -225,6 +225,7 @@ html, body {
 .hero .col-md-6:first-child {
     position: absolute;
     top: 35%;
+    margin-top: 8%;
     left: 0;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
@@ -241,20 +242,22 @@ html, body {
 }
 
 .hero h1 {
-    font-size: 46px;
+    font-size:76px;
     font-weight: 700;
     margin: 0 0 15px;
     text-transform: uppercase;
 }
 
 .job-title {
-    font-size: 22px;
+    font-size: 30px;
     margin-bottom: 30px;
     line-height: 1;
+    margin-top: 13px;
 } 
 
 .hero img {
     height: 600px;
+    margin-left: 65px;
 }
 
 /* SITEMAIN
@@ -267,7 +270,7 @@ html, body {
 }
 /* site-section */
 .site-section {
-   padding-top: 120px;
+   padding-top: 10px;
 }
 
 .site-section h2,
@@ -275,6 +278,7 @@ html, body {
     font-size: 36px;
     margin: 0;
     text-transform: uppercase;
+    margin-top: 50px;
 }
 
 .img-lines {
@@ -282,7 +286,7 @@ html, body {
 }
 
 .site-section p {
-    margin-bottom: 35px;
+    margin-bottom: 50px;
 }
 
 /* Section: Skills */
@@ -348,8 +352,8 @@ html, body {
 }
 
 .service h4 {
-    margin: 25px 0;
-    font-size: 24px;
+    margin: 50px 0;
+    font-size: 30px;
     font-weight: 700;
 }
 
